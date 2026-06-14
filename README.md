@@ -8,7 +8,7 @@ A complete data analytics project built on the **Superstore dataset (~51K rows)*
 
 ## 🚀 Live Dashboard Preview
 
-![Sales Analytics Dashboard](https://github.com/codebyavneesh/end-to-end-sales-analytics-project/blob/main/Sales-Analytics-Dashboard-Project/Dashboard_image.png)
+![Sales Analytics Dashboard]([https://github.com/codebyavneesh/end-to-end-sales-analytics-project/blob/main/Sales-Analytics-Dashboard-Project/Dashboard_image.png](https://github.com/codebyavneesh/end-to-end-sales-analytics-project/blob/main/Sales-Analytics-Dashboard-Project/Dashboard_image.png))
 
 ---
 
