@@ -8,8 +8,7 @@ A complete data analytics project built on the **Superstore dataset (~51K rows)*
 
 ## 🚀 Live Dashboard Preview
 
-![Sales Analytics Dashboard](Sales-Analytics-Dashboard-Project/Dashboard_image.png)
----
+![Sales Analytics Dashboard](Sales-Analytics-Dashboard-Project/Dashboard_image.png)-
 
 ## 📁 Project Structure
 
